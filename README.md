@@ -1,4 +1,5 @@
 # nuxt-tutorial-app
+Nyoba make nuxt setelah sekian lama
 
 ## Build Setup
 
